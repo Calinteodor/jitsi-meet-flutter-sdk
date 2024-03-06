@@ -1,3 +1,12 @@
+## 0.2.0 
+
+* install packages [d5b3476](https://github.com/jitsi/jitsi-meet-flutter-sdk/commit/d5b3476f3221693cb475dbaff871c453aa34f17d).
+* chore(deps): update native sdks to 9.0.0 [78efc5b](https://github.com/jitsi/jitsi-meet-flutter-sdk/commit/78efc5b089ae6664013a0b427a077314f80e94e4).
+* chore(deps): update native sdks to 9.0.0 [eaf4028](https://github.com/jitsi/jitsi-meet-flutter-sdk/commit/eaf4028224462ce20752796e8c959dabf17c0053).
+* Make it work on lockscreens as well (#10) [d369faa](https://github.com/jitsi/jitsi-meet-flutter-sdk/commit/d369faae3462a028c1e2958b9976b48d2d503649).
+* Update README.md [ada1230](https://github.com/jitsi/jitsi-meet-flutter-sdk/commit/ada123031bfc9ca4916b67c30926840249de2616).
+* fix: sample app link [bdf7051](https://github.com/jitsi/jitsi-meet-flutter-sdk/commit/bdf705101e4afb96420c375deee8bc9169e4693a).
+
 ## 0.1.9 
 
 * chore(deps): update native sdks to 8.6.0 [c46ab1e](https://github.com/jitsi/jitsi-meet-flutter-sdk/commit/c46ab1e44c369b1441aa736ef8bbd0bf81f2275e).
